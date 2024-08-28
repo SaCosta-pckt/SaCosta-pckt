@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi! 👋✨
+
+I'm a Backend Developer who dreams to be a Data Engeneer and I'm on my way 🚀
+
+![salute gif](https://media1.tenor.com/m/BWfzKvwe2ggAAAAC/asuka-asuak-tanaka.gif)
+
+Check my profile:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaCosta-pckt&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!--
 **SaCosta-pckt/SaCosta-pckt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
